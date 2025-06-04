@@ -176,7 +176,7 @@ hr{
     margin: 0;
     padding: 0;
    }
-   @media screen and (max-width: 414px) {
+   @media screen and (max-width: 900px) {
     .desktop-view{
      display: none;
     } 
@@ -184,7 +184,7 @@ hr{
       display: none;
     }
    }
-@media screen and (min-width: 1120px) {
+@media screen and (min-width: 900px) {
   .small-screen{
     display: none;
    } 
